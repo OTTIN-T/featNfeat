@@ -1,0 +1,7 @@
+{
+  "welcome": "Welcome",
+  "nuxtSiteConfig": {
+    "description": "EN: Trouvez qui feat avec qui !",
+    "name": "FeatNFeat"
+  }
+}
